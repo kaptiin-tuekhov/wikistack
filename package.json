@@ -1,0 +1,19 @@
+{
+  "name": "wikistack",
+  "version": "1.0.0",
+  "description": "Wiki clone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "pg": "^6.0.3",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.23.6",
+    "swig": "^1.4.2"
+  }
+}
